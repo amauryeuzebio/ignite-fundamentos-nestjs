@@ -39,3 +39,8 @@ lerna-debug.log*
 
 # Docker
 data
+
+# Chaves ssh
+private_key.pem
+public_key.pem
+```
